@@ -31,4 +31,8 @@ public class H extends D {
     public double ee() {
         return 500.100;
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }

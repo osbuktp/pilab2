@@ -31,4 +31,8 @@ public class B extends H {
     public void bb() {
         System.out.println(42);
     }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
 }

@@ -31,4 +31,8 @@ public class J {
     public void ab() {
         return;
     }
+
+    public int ae() {
+        return 8;
+    }
 }

@@ -31,4 +31,8 @@ public class D extends J {
     public long ac() {
         return 222;
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }
