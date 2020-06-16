@@ -23,4 +23,8 @@ public class D extends J {
     public void ab() {
         return;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }

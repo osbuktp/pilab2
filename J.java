@@ -23,4 +23,8 @@ public class J {
     public float ff() {
         return 0;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
+    }
 }
