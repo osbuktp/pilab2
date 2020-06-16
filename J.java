@@ -15,4 +15,8 @@ public class J {
     public long dd() {
         return 100500;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
