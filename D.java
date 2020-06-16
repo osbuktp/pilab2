@@ -11,12 +11,4 @@ public class D extends J {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
-
-    public void aa() {
-        System.out.println("Hello world!");
-    }
-
-    public int cc() {
-        return 42;
-    }
 }

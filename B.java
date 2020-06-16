@@ -11,12 +11,4 @@ public class B extends H {
     public int cc() {
         return 13;
     }
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
-
-    public float ff() {
-        return 3.14;
-    }
 }
