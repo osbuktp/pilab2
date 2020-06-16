@@ -11,4 +11,8 @@ public class J {
     public int af() {
         return -1;
     }
+
+    public long dd() {
+        return 100500;
+    }
 }
