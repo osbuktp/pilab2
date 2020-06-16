@@ -11,4 +11,8 @@ public class H extends D {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }
