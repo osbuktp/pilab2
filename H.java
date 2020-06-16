@@ -11,20 +11,4 @@ public class H extends D {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
-
-    public String nn() {
-        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
-    }
-
-    public Object pp() {
-        return this;
-    }
-
-    public String kk() {
-        return "Yes";
-    }
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
 }
