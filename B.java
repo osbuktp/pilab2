@@ -15,4 +15,8 @@ public class B extends H {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }

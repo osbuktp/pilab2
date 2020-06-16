@@ -15,4 +15,8 @@ public class D extends J {
     public void aa() {
         System.out.println("Hello world!");
     }
+
+    public int cc() {
+        return 42;
+    }
 }

@@ -15,4 +15,8 @@ public class H extends D {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
