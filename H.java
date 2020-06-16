@@ -19,4 +19,8 @@ public class H extends D {
     public Object pp() {
         return this;
     }
+
+    public String kk() {
+        return "Yes";
+    }
 }

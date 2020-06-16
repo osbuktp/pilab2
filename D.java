@@ -19,4 +19,8 @@ public class D extends J {
     public int cc() {
         return 42;
     }
+
+    public void ab() {
+        return;
+    }
 }

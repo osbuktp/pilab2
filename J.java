@@ -19,4 +19,8 @@ public class J {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public float ff() {
+        return 0;
+    }
 }
