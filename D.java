@@ -27,4 +27,8 @@ public class D extends J {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public long ac() {
+        return 222;
+    }
 }

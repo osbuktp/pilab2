@@ -27,4 +27,8 @@ public class H extends D {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public double ee() {
+        return 500.100;
+    }
 }
